@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my-csv-optimizer',
+    name='eather-Data-Optimizer',
     version='1.0.0',
     author='Your Name',
     author_email='your@email.com',
