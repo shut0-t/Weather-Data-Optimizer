@@ -1,7 +1,10 @@
 from setuptools import setup, find_packages
 
+# Define the license
+LICENSE = 'MIT'
+
 setup(
-    name='eather-Data-Optimizer',
+    name='Weather-Data-Optimizer',
     version='1.0.0',
     author='shut0',
     author_email='shut0@email.com',
